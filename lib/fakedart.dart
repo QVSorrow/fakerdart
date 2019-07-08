@@ -1,7 +1,8 @@
 library fakedart;
 
 /// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+class Fakedart {
+  static bool getUniqueValue(){
+    return true;
+  }
 }
