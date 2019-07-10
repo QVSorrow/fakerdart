@@ -21,6 +21,51 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  assets:
+    - assets/raw/ca.yml
+    - assets/raw/cacat.yml
+    - assets/raw/dadk.yml
+    - assets/raw/de.yml
+    - assets/raw/deat.yml
+    - assets/raw/dech.yml
+    - assets/raw/en.yml
+    - assets/raw/enau.yml
+    - assets/raw/enauocker.yml
+    - assets/raw/enbork.yml
+    - assets/raw/enca.yml
+    - assets/raw/engb.yml
+    - assets/raw/enind.yml
+    - assets/raw/ennep.yml
+    - assets/raw/enng.yml
+    - assets/raw/ennz.yml
+    - assets/raw/enpak.yml
+    - assets/raw/ensg.yml
+    - assets/raw/enug.yml
+    - assets/raw/enus.yml
+    - assets/raw/enza.yml
+    - assets/raw/es.yml
+    - assets/raw/esmx.yml
+    - assets/raw/fa.yml
+    - assets/raw/fifi.yml
+    - assets/raw/fr.yml
+    - assets/raw/he.yml
+    - assets/raw/id.yml
+    - assets/raw/it.yml
+    - assets/raw/ja.yml
+    - assets/raw/ko.yml
+    - assets/raw/nbno.yml
+    - assets/raw/nl.yml
+    - assets/raw/pl.yml
+    - assets/raw/pt.yml
+    - assets/raw/ptbr.yml
+    - assets/raw/ru.yml
+    - assets/raw/sk.yml
+    - assets/raw/sv.yml
+    - assets/raw/tr.yml
+    - assets/raw/uk.yml
+    - assets/raw/vi.yml
+    - assets/raw/zhcn.yml
+    - assets/raw/zhtw.yml
 
   # To add assets to your package, add an assets section, like this:
   # assets:
